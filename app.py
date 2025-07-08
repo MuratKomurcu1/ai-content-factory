@@ -36,12 +36,12 @@ else:
 
 # ✅ Firebase Config
 firebaseConfig = {
-  "apiKey": "AIzaSyB9tHRV1jgMKwtwewOhPT555Lh1Lh-31Pc",
-  "authDomain": "blogcraftt.firebaseapp.com",
-  "projectId": "blogcraftt",
-  "storageBucket": "blogcraftt.appspot.com",
-  "messagingSenderId": "708843280683",
-  "appId": "1:708843280683:web:1ab9d956168b5ad5b89d6e",
+  "apiKey": "xxxxxxxxxxxxx",
+  "authDomain": "xxxxxxxxxxxxx",
+  "projectId": "xxxxxxx",
+  "storageBucket": "xxxxxxxx",
+  "messagingSenderId": "xxxxxxxx",
+  "appId": "xxxxxxx",
   "databaseURL": ""
 }
 
